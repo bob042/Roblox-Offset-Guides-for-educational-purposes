@@ -29,7 +29,9 @@ This means that you are legally **not allowed** to sell, paywall or monetize con
 
 Proper credit must be present to the author(s) of this repository if any original work is present.
 
-~~Discord server under the name of "Skidding HQ" is no longer legally allowed to distribute my work. That includes any links, files, snippets from my original work from this repository.~~ They are allowed in this fork. Yay!
+Discord server under the name of "Skidding HQ" is no longer legally allowed to distribute my work. That includes any links, files, snippets from my original work from this repository.
+
+Note from lordnikky: Hello bob042, you are legally not allowed to change license, and give that specific server permission to use this repo. thanks
 
 October 19 2026: Currently there is 1 active violation of license, it all has been documented. 
 
